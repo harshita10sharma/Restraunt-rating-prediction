@@ -41,6 +41,13 @@ The model demonstrated a good capacity to predict ratings accurately based on in
 2. Run the Python script to preprocess data, train the model, and visualize results.
 3. Use the trained model to predict ratings for new sets of restaurant features by passing appropriate input values (e.g., cuisine type, city code, price range).
 
+## Installation
+
+Install the required Python packages using pip:
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
