@@ -14,11 +14,11 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import numpy as np
 
-from google.colab import drive
-drive.mount('/content/drive/')
+# from google.colab import drive
+# drive.mount('/content/drive/')
 
-from google.colab import drive
-drive.mount('/content/drive')
+# from google.colab import drive
+# drive.mount('/content/drive')
 
 a= pd.read_csv('/Dataset .csv')
 
